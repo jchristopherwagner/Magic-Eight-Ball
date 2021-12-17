@@ -10,7 +10,7 @@ console.log(`${userName} asked : ${userQuestion}`)
 let randomNumber = Math.floor(Math.random() * 8)
 
 let eightBall =''
-console.log(`'Magic Eight Ball's answer is ${eightBall}`)
+console.log(`Magic Eight Ball's answer is ${eightBall}`)
 
 switch (randomNumber) {
   case '0' :
