@@ -1,9 +1,11 @@
 let userName = ''
+//Add your name here
 
 userName ? console.log(`Hello, ${userName}!`) : console.log('Hello!')
 
 let userQuestion = ''
 console.log(`${userName} asked : ${userQuestion}`)
+//Add your question
 
 let randomNumber = Math.floor(Math.random() * 8)
 
